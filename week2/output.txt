@@ -1,0 +1,16 @@
+=== ICMP Analysis ===
+
+Total ICMP packets captured: 75
+
+IPv4 ICMP counts:
+  Echo Request (8): 23
+  Echo Reply (0): 5
+  Time Exceeded (11): 3
+
+IPv6 ICMP counts:
+  Echo Request (128): 10
+  Echo Reply (129): 10
+  Time Exceeded (3): 0
+
+Routers that sent Time Exceeded messages:
+  192.168.1.254
