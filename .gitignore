@@ -1,0 +1,12 @@
+.har
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.log
+*.tmp
+node_modules/
+.env
+.vscode/
+.idea/
